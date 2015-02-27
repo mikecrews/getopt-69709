@@ -4,8 +4,6 @@ Gnu.Getopt.Net 0.9.2
 This is a Getopt C#.NET port based on version 1.0.9 of Aaron M. Renn's Java
 Getopt [1].
 
-Please send recommendations and bug reports to this port to
-klaus.prueckl@aon.at.
 
 
 Usage:
