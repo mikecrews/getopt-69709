@@ -20,7 +20,7 @@ error message language is always English.
 
 Klaus Prückl
 klaus.prueckl@aon.at
-http://www.codeplex.com/getopt
+`http://www.codeplex.com/getopt`
 ---
 ## SOURCE package contents:
 ```
@@ -64,10 +64,9 @@ no/*                 Norwegian language error messages
 ```
 ---
 ## References
-
-[1] http://www.urbanophile.com/arenn/coding/download.html
-[2] http://www.gotdotnet.com/team/fxcop/
-[3] http://www.nunit.org/
+`[1] http://www.urbanophile.com/arenn/coding/download.html`
+`[2] http://www.gotdotnet.com/team/fxcop/`
+`[3] http://www.nunit.org/`
 ---
 ## Changelog:
 
